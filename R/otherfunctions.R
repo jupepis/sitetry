@@ -2,11 +2,9 @@
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_1 <- function(x = NULL) {
     if(is.null(x)){
@@ -21,11 +19,9 @@ addition_1 <- function(x = NULL) {
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_2 <- function(x = NULL) {
     if(is.null(x)){
@@ -41,11 +37,9 @@ addition_2 <- function(x = NULL) {
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_3 <- function(x = NULL) {
     if(is.null(x)){
@@ -61,11 +55,9 @@ addition_3 <- function(x = NULL) {
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_4 <- function(x = NULL) {
     if(is.null(x)){
@@ -80,11 +72,9 @@ addition_4 <- function(x = NULL) {
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_5 <- function(x = NULL) {
     if(is.null(x)){
@@ -100,11 +90,9 @@ addition_5 <- function(x = NULL) {
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
-#' @export
-#'
+#' @return value
 #' @export
 addition_6 <- function(x = NULL) {
     if(is.null(x)){

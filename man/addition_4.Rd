@@ -7,10 +7,10 @@
 addition_4(x = NULL)
 }
 \arguments{
-\item{x}{}
+\item{x}{value}
 }
 \value{
-
+value
 }
 \description{
 dumb function

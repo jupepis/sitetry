@@ -1,0 +1,30 @@
+---
+title: "addition"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{addition}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(sitetry)
+```
+
+
+# Title here
+
+## subtitle here to describe what is going to be explained in the vignette
+
+In this vignette we are going to describe the use of the function \texttt{addition()}
+
+```{r}
+sitetry::addition(rnorm(10))
+```

@@ -2,12 +2,10 @@
 #' 
 #' dumb function
 #'
-#' @param x
+#' @param x value
 #'
-#' @return
+#' @return value
 #' @export
-#'
-#' @examples
 addition <- function(x = NULL) {
     if(is.null(x)){
         stop("'x' cannot be NULL")
