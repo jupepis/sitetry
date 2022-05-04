@@ -1,0 +1,20 @@
+url: https://jupepis.github.io/sitetry/
+template:
+  bootstrap: 5
+  bootswatch: lumen
+reference:
+- title: "Connecting to Sitetry"
+  desc: >
+    Functions for installing Sitetry components and managing
+    connections to Sitetry
+  contents: 
+  - addition
+  - addition_1
+  - addition_2
+  - addition_3
+  - addition_4
+- title: "Other functions for adding numbers"
+  desc: "Below a list of functions for adding numbers"
+  contents:
+  - starts_with("addition_5")
+  - starts_with("addition_6")

@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  addition: addition.html
+last_built: 2022-02-25T15:44Z
+urls:
+  reference: https://jupepis.github.io/sitetry/reference
+  article: https://jupepis.github.io/sitetry/articles
+
