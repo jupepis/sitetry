@@ -20,9 +20,6 @@ library(sitetry)
 
 
 # Title here
-
-## subtitle here to describe what is going to be explained in the vignette
-
 In this vignette we are going to describe the use of the function \texttt{addition()}
 
 ```{r}
